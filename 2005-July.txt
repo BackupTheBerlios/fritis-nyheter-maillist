@@ -1,0 +1,21 @@
+From jonas at trinix.se  Wed Jul  6 20:26:10 2005
+From: jonas at trinix.se (=?ISO-8859-1?Q?Jonas_Bj=F6rk?=)
+Date: Wed, 6 Jul 2005 20:26:10 +0200
+Subject: [Fritis-nyheter] =?ISO-8859-1?Q?F=F6rsta_utkast_till_Handbok_i_GIMP?=
+Message-ID: <46ED85ED-B51F-4B9C-B28F-22FA86B345E5@trinix.se>
+
+Christian publicerade ett f?rsta utkast till boken "Handbok i GIMP" i  
+CVSen idag.
+
+mvh/ jonas
+
+-- 
+Jonas Bj?rk
+TriNix AB, Helsingborg, Sweden
+http://www.trinix.se/
+
+Work +46 42 127 800
+Cell +46 735 310 522
+
+
+
